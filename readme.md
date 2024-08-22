@@ -1,23 +1,27 @@
 # How to Use:
 ### Create a Directory Structure:
 
-css
 Copy code
+```css
 graph_problem/
 ├── CMakeLists.txt
 └── example.cpp
 Build the Project:
-
-bash
+```
 Copy code
+```bash
 mkdir build
 cd build
 cmake ..
 make
-This will generate the graph_problem executable in the build directory.
+```
 
+This will generate the graph_problem executable in the build directory.
 Run the Executable:
 
-bash
+```bash
 Copy code
 ./example
+```
+
+Enjoy!
