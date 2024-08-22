@@ -20,8 +20,7 @@ This will generate the graph_problem executable in the build directory.
 Run the Executable:
 
 ```bash
-Copy code
-./example
+./build/example
 ```
 
 Enjoy!
