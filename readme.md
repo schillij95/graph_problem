@@ -1,4 +1,10 @@
-# How to Use:
+# Sheet Stitching Problem Playground
+
+## Intro
+
+Please read the PDF "Sheet_Stitching_Problem_Definition.pdf".
+
+## How to Use the Playground
 ### Create a Directory Structure:
 
 Copy code
