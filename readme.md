@@ -2,19 +2,19 @@
 
 ## Intro
 
-Please read the PDF "Sheet_Stitching_Problem_Definition.pdf".
+This repository contains a C++ playground to quickly implement different solutions to the "sheet stitching" graph problem.
+Please read the PDF [Sheet_Stitching_Problem_Definition.pdf](./Sheet_Stitching_Problem_Definition.pdf) for an overview and introduction to the problem.
 
 ## How to Use the Playground
-### Create a Directory Structure:
+### Directory Structure:
 
-Copy code
-```css
+```plaintext
 graph_problem/
 ├── CMakeLists.txt
 └── example.cpp
-Build the Project:
 ```
-Copy code
+
+Build the Project:
 ```bash
 mkdir build
 cd build
@@ -28,5 +28,7 @@ Run the Executable:
 ```bash
 ./build/example
 ```
+
+"You have now loaded the graph into memory, created, and saved an initial histogram of the graph.
 
 Enjoy!
