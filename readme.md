@@ -29,6 +29,8 @@ Run the Executable:
 ./build/example
 ```
 
-"You have now loaded the graph into memory, created, and saved an initial histogram of the graph.
+You have now loaded the graph into memory, created, and saved an initial histogram of the graph.
 
-Enjoy!
+![Initial Histogram of unsolved graph](./histogram.png)
+
+Enjoy the playground!
